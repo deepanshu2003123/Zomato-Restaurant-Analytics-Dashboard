@@ -6,7 +6,7 @@ This project analyzes Zomato restaurant data using Excel to find insights on rat
 
 📸 Dashboard Preview
 
-"Dashboard" (dashboard.png)
+![Dashboard](Screenshot 2026-04-03 151531.png)
 
 🔍 Key Insights
 
